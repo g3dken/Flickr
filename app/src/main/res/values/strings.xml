@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Picture</string>
+
+    <string name="data_error">Unable to load data, try again later!</string>
+    <string name="empty_search">Please enter something in search box</string>
+    <string name="no_internet">Please connect to the internet</string>
+</resources>
